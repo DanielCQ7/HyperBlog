@@ -1,0 +1,36 @@
+commit bc6b74edb8506ec6126d705901b42d3d7125d1af
+Author: daniel <danielcaiza30@gmail.com>
+Date:   Tue May 4 23:31:50 2021 -0500
+
+    Agregué un poco de información al final
+
+ Historia.txt | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+commit 4a2df7360af8ef71cab9dbdd363bfc32fb4072f2
+Author: daniel <danielcaiza30@gmail.com>
+Date:   Tue May 4 23:30:38 2021 -0500
+
+    Actualización a la Historia con información del nuevo proyecto
+
+ Historia.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+commit bb5fe348a9a0a475e85a4554d59d5d5e17cec613
+Author: daniel <danielcaiza30@gmail.com>
+Date:   Tue May 4 23:28:06 2021 -0500
+
+    Arranco mi proyecto real con html y css
+
+ Css/style.css |  5 +++++
+ blogpost.html | 15 +++++++++++++++
+ 2 files changed, 20 insertions(+)
+
+commit 11f73ff400934358e0898162700e6b57c1a8c016
+Author: daniel <danielcaiza30@gmail.com>
+Date:   Sun May 2 16:44:26 2021 -0500
+
+    Esta es la primera version del archivo
+
+ Historia.txt | 7 +++++++
+ 1 file changed, 7 insertions(+)

@@ -5,3 +5,5 @@ Daniel Caiza tiene 27 años y nació en Quito el 21 de Julio del 93
 Actualmente Daniel ya esta haciendo pruebas con Git
 
 Hoy 4/5/2021 a las 23:30 empezamos un proyecto de html y css en git
+
+Esto es un minuto despues para probar un ejemplo del curso

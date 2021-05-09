@@ -6,4 +6,6 @@ Maritza Fernandez es una patito lobita que ayuda a su novio a que aprenda github
 
 Master 1
 
+Master 2 
+
 Mañana continuaremos aprendiendo Git 
